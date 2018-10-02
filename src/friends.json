@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/46/Ryurender.png/revision/latest/scale-to-width-down/350?cb=20170728171704",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/bc/Birdierender.png/revision/latest/scale-to-width-down/350?cb=20170728163110",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/19/Cammyrender.png/revision/latest/scale-to-width-down/350?cb=20170728163129",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/b1/Dhalsimrender.png/revision/latest/scale-to-width-down/350?cb=20170728164253",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/6/63/Fangrender.png/revision/latest/scale-to-width-down/350?cb=20170728164150",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/c/c1/Karinrender.png/revision/latest/scale-to-width-down/350?cb=20170728171306",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/b4/Kenrender.png/revision/latest/scale-to-width-down/350?cb=20170728171332",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/7/76/Laurarender.png/revision/latest/scale-to-width-down/350?cb=20170728171412f",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/1/17/Bisonrender.png/revision/latest/scale-to-width-down/350?cb=20170728171523",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/5/5f/Nashrender.png/revision/latest/scale-to-width-down/350?cb=20170728163805",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/4/41/Necallirender.png/revision/latest/scale-to-width-down/350?cb=20170728171606",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/f/f4/Mikarender.png/revision/latest/scale-to-width-down/350?cb=20170728171627",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/0/05/Rashidrender.png/revision/latest/scale-to-width-down/350?cb=20170728171646",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/b/bf/Vegarender.png/revision/latest/scale-to-width-down/350?cb=20170728171753",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "https://vignette.wikia.nocookie.net/streetfighter/images/8/88/Zangiefrender.png/revision/latest/scale-to-width-down/350?cb=20170728171808",
+    "clicked": false
+  }
+
+]
