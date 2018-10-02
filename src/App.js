@@ -40,7 +40,7 @@ class App extends Component {
     const newScore = this.state.currentScore + 1;
     this.setState({
       currentScore: newScore,
-      rightWrong: "You clicked a character you haven't already!"
+      rightWrong: "You clicked a new character!"
     });
     if (newScore >= this.state.topScore) {
       this.setState({ topScore: newScore });
